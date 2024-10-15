@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\bt-buoi2-C#\bt-b2\bin\Debug\net8.0\bt-b2.exe
+C:\Users\ASUS\Desktop\bt-buoi2-C#\bt-b2\bin\Debug\net8.0\bt-b2.deps.json
+C:\Users\ASUS\Desktop\bt-buoi2-C#\bt-b2\bin\Debug\net8.0\bt-b2.runtimeconfig.json
+C:\Users\ASUS\Desktop\bt-buoi2-C#\bt-b2\bin\Debug\net8.0\bt-b2.dll
+C:\Users\ASUS\Desktop\bt-buoi2-C#\bt-b2\bin\Debug\net8.0\bt-b2.pdb
+C:\Users\ASUS\Desktop\bt-buoi2-C#\bt-b2\obj\Debug\net8.0\bt-b2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\bt-buoi2-C#\bt-b2\obj\Debug\net8.0\bt-b2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\bt-buoi2-C#\bt-b2\obj\Debug\net8.0\bt-b2.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\bt-buoi2-C#\bt-b2\obj\Debug\net8.0\bt-b2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\bt-buoi2-C#\bt-b2\obj\Debug\net8.0\bt-b2.dll
+C:\Users\ASUS\Desktop\bt-buoi2-C#\bt-b2\obj\Debug\net8.0\refint\bt-b2.dll
+C:\Users\ASUS\Desktop\bt-buoi2-C#\bt-b2\obj\Debug\net8.0\bt-b2.pdb
+C:\Users\ASUS\Desktop\bt-buoi2-C#\bt-b2\obj\Debug\net8.0\bt-b2.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\bt-buoi2-C#\bt-b2\obj\Debug\net8.0\ref\bt-b2.dll
